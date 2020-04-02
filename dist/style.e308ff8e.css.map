@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":[".divv{\n    border: 1px solid red;\n    height: 100px;\n    width: 100px;\n    position: absolute;\n    top: 0;\n    left: 0;\n}\n\nbody{\n    height: 100vh;\n}"]}

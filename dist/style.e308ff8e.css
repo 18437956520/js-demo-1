@@ -1,0 +1,14 @@
+.divv{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+body{
+    height: 100vh;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
